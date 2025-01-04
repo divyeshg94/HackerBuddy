@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualBasic;
 
-namespace HackerBuddy.Sql
+namespace HackerBuddy.Sql.Models
 {
     public class Person
     {

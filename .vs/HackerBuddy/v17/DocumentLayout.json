@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,36 +11,92 @@
       "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\service\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\service\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\controller\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\controller\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\hackathon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\hackathon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\interface\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\interface\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\controller\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\controller\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\personskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\personskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\hackerbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\hackerbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{118E3C48-0181-4B3E-B14F-DF97DB407A03}|HackerBuddy\\HackerBuddy.csproj|solutionrelative:hackerbuddy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\hackathon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\hackathon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\personskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\personskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|c:\\users\\divyeshgovaerdhanan\\source\\repos\\personal\\hackerbuddy\\hackerbuddy.sql\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090912-C4C9-4808-9317-581F6C77A19A}|HackerBuddy.Sql\\HackerBuddy.Sql.csproj|solutionrelative:hackerbuddy.sql\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 166,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,38 +118,233 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "HackerBuddy\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Properties\\launchSettings.json",
-              "RelativeToolTip": "HackerBuddy\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T23:52:24.513Z",
+              "DocumentIndex": 4,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Controller\\SkillController.cs",
+              "RelativeDocumentMoniker": "HackerBuddy\\Controller\\SkillController.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Controller\\SkillController.cs",
+              "RelativeToolTip": "HackerBuddy\\Controller\\SkillController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:42:56.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillService.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Service\\SkillService.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Service\\SkillService.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Service\\SkillService.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Service\\SkillService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:42:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISkillService.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Interface\\ISkillService.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Interface\\ISkillService.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Interface\\ISkillService.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Interface\\ISkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:42:14.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Controller\\PersonController.cs",
+              "RelativeDocumentMoniker": "HackerBuddy\\Controller\\PersonController.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Controller\\PersonController.cs",
+              "RelativeToolTip": "HackerBuddy\\Controller\\PersonController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA9wCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:41:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Service\\PersonService.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Service\\PersonService.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Service\\PersonService.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Service\\PersonService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAjwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:36:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Interface\\IPersonService.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Interface\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Interface\\IPersonService.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Interface\\IPersonService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:35:42.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T00:48:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Program.cs",
               "RelativeDocumentMoniker": "HackerBuddy\\Program.cs",
               "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Program.cs",
               "RelativeToolTip": "HackerBuddy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:50:59.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\appsettings.json",
+              "RelativeDocumentMoniker": "HackerBuddy\\appsettings.json",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\appsettings.json",
+              "RelativeToolTip": "HackerBuddy\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T23:45:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HackerBuddy\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HackerBuddy\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:38:34.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HackerBuddy\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "HackerBuddy\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:37:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HackerBuddy\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HackerBuddy\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:37:50.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "HackerBuddy\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\Error.cshtml",
+              "RelativeToolTip": "HackerBuddy\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:37:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HackerBuddy",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\HackerBuddy.csproj",
+              "RelativeDocumentMoniker": "HackerBuddy\\HackerBuddy.csproj",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\HackerBuddy.csproj",
+              "RelativeToolTip": "HackerBuddy\\HackerBuddy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T00:35:35.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HackerBuddy\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "HackerBuddy\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T00:25:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Conversation.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\Conversation.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Conversation.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\Conversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:47:38.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HackerBuddy\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HackerBuddy\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T23:52:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "TeamMember.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\TeamMember.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\TeamMember.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\TeamMember.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\TeamMember.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\TeamMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:47:18.086Z",
@@ -105,12 +352,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Hackathon.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Hackathon.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Hackathon.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Hackathon.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\Hackathon.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Hackathon.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\Hackathon.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Hackathon.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\Hackathon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:47:00.915Z",
@@ -118,12 +365,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Team.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Team.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Team.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\Team.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Team.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:46:43.871Z",
@@ -131,12 +378,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "PersonSkill.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\PersonSkill.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\PersonSkill.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\PersonSkill.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\PersonSkill.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\PersonSkill.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\PersonSkill.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\PersonSkill.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\PersonSkill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:46:20.086Z",
@@ -144,12 +391,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Skill.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Skill.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Skill.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\Skill.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Skill.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\Skill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:45:57.465Z",
@@ -157,25 +404,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\appsettings.json",
-              "RelativeDocumentMoniker": "HackerBuddy\\appsettings.json",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy\\appsettings.json",
-              "RelativeToolTip": "HackerBuddy\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T23:45:33.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Requirement.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Requirement.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Requirement.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Requirement.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\Requirement.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Requirement.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\Requirement.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Requirement.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\Requirement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:47:56.275Z",
@@ -183,25 +417,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Conversation.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Conversation.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Conversation.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Conversation.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\Conversation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:47:38.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Person.cs",
-              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Person.cs",
-              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Person.cs",
-              "RelativeToolTip": "HackerBuddy.Sql\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "HackerBuddy.Sql\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\DivyeshGovaerdhanan\\source\\repos\\Personal\\HackerBuddy\\HackerBuddy.Sql\\Models\\Person.cs",
+              "RelativeToolTip": "HackerBuddy.Sql\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:44:40.969Z",

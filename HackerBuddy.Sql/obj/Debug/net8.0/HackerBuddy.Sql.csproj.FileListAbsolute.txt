@@ -9,3 +9,7 @@ C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\o
 C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\obj\Debug\net8.0\refint\HackerBuddy.Sql.dll
 C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\obj\Debug\net8.0\HackerBuddy.Sql.pdb
 C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\obj\Debug\net8.0\ref\HackerBuddy.Sql.dll
+C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\obj\Debug\net8.0\HackerBuddy.Sql.sourcelink.json
+C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\obj\Debug\net8.0\HackerBuddy.Sql.csproj.AssemblyReference.cache
+C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\bin\Debug\net8.0\HackerBuddy.Sql.runtimeconfig.json
+C:\Users\DivyeshGovaerdhanan\source\repos\Personal\HackerBuddy\HackerBuddy.Sql\obj\Debug\net8.0\HackerBuddy.Sql.genruntimeconfig.cache
