@@ -1,0 +1,110 @@
+﻿@model HackerBuddy.Sql.Models.Person
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string? profilePicture = null;
+    var profilePicPlaceholder = HTMLHelpers.ProfilePicturePlaceHolder;
+}
+
+<h2>User Profile Form</h2>
+
+<div class="col-md-10">
+    <form method="post" enctype="multipart/form-data">
+        <!-- Profile Picture Preview Box on the Left -->
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label class="form-label">Profile Picture</label>
+                <!-- Default Image as Profile Picture -->
+                @if (!string.IsNullOrEmpty(profilePicture))
+                {
+                    <img id="profilePicPreview" src="~/images/sample-profile.jpg" alt="Profile Picture Preview" class="img-fluid" style="width: 150px; height: 150px;display: block; margin-bottom: 10px;" />
+                }
+                else
+                {
+                    <img id="profilePicPreview" src="@profilePicPlaceholder" alt="Profile Picture Preview" class="img-fluid" style="width: 150px; height: 150px;display: block; margin-bottom: 10px;" />
+                }
+                <input asp-for="@profilePicture" class="form-control" type="file" id="profilePicInput" accept="image/*" onchange="previewImage(event)" />
+                <span asp-validation-for="@profilePicture" class="text-danger"></span>
+            </div>
+            <div class="col-md-6">
+            </div>
+        </div>
+
+        <!-- User Name -->
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <!-- Default Image as Profile Picture -->
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col-md-6">
+                <label asp-for="EmailId" class="form-label">Email</label>
+                <input asp-for="EmailId" class="form-control" />
+                <span asp-validation-for="EmailId" class="text-danger"></span>
+            </div>
+        </div>
+
+        <!-- Role -->
+        <div class="mb-3">
+            <label asp-for="Location" class="form-label">Location</label>
+            <input asp-for="Location" class="form-control" />
+            <span asp-validation-for="Location" class="text-danger"></span>
+        </div>
+
+        <!-- Bio -->
+        <div class="mb-3">
+            <label asp-for="Experience" class="form-label">Experience (Years)</label>
+            <input asp-for="Experience" class="form-control" type="number" />
+            <span asp-validation-for="Experience" class="text-danger"></span>
+        </div>
+
+        <!-- Skills Multiselect Dropdown -->
+        <div class="mb-3">
+            <label asp-for="PersonSkills" class="form-label">Skills</label>
+            <select asp-for="PersonSkills" class="form-control select2" data-tags="true" multiple data-live-search="true">
+                @foreach (var skill in Model.PersonSkills?.Where(x => x.SkillType.ToLower() == "self") ?? [])
+                {
+                    <option value="@skill.SkillID">@skill.SkillID</option>
+                }
+            </select>
+            <span asp-validation-for="PersonSkills" class="text-danger"></span>
+        </div>
+
+        <!-- Skills Multiselect Dropdown -->
+        <div class="mb-3">
+            <label for="LookingForSkills" class="form-label">Looking for Skills</label>
+            <select for="LookingForSkills" class="form-control select2" data-tags="true" multiple data-live-search="true">
+                @foreach (var skill in Model.PersonSkills?.Where(x => x.SkillType.ToLower() == "lookingfor") ?? [])
+                {
+                    <option value="@skill.SkillID">@skill.SkillID</option>
+                }
+            </select>
+            <span for="LookingForSkills" class="text-danger"></span>
+        </div>
+
+        <!-- Bio -->
+        <div class="mb-3">
+            <label asp-for="LookingForRole" class="form-label">Looking for Role</label>
+            <input asp-for="LookingForRole" class="form-control" />
+            <span asp-validation-for="LookingForRole" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>
+
+<script>
+
+    function previewImage(event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            var output = document.getElementById('profilePicPreview');
+            output.src = reader.result;
+            output.style.display = 'block';
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    }
+</script>
+
