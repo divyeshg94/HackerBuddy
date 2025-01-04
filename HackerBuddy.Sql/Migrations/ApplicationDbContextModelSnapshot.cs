@@ -87,6 +87,10 @@ namespace HackerBuddy.Sql.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("EmailId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("Experience")
                         .HasColumnType("int");
 

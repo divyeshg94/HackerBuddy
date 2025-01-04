@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackerBuddy.Sql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb433a9714742a1fac82d30a78cc41b9aa66c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c9917fe8ebef564a4a10968ed4187ff8400dfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackerBuddy.Sql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackerBuddy.Sql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

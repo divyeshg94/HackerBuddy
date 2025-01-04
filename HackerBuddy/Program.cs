@@ -29,6 +29,9 @@ builder.Services.AddScoped<ISkillService, SkillService>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
 var app = builder.Build();
 
 

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerBuddy", "HackerBuddy\HackerBuddy.csproj", "{118E3C48-0181-4B3E-B14F-DF97DB407A03}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerBuddy.Sql", "HackerBuddy.Sql\HackerBuddy.Sql.csproj", "{A7090912-C4C9-4808-9317-581F6C77A19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerBuddy.Web", "HackerBuddy.Web\HackerBuddy.Web.csproj", "{0937604D-50C4-4BE1-8A50-0D15D0DAA049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A7090912-C4C9-4808-9317-581F6C77A19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7090912-C4C9-4808-9317-581F6C77A19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7090912-C4C9-4808-9317-581F6C77A19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0937604D-50C4-4BE1-8A50-0D15D0DAA049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0937604D-50C4-4BE1-8A50-0D15D0DAA049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0937604D-50C4-4BE1-8A50-0D15D0DAA049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0937604D-50C4-4BE1-8A50-0D15D0DAA049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

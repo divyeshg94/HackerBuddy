@@ -6,6 +6,7 @@ namespace HackerBuddy.Sql.Models
     {
         public int PersonID { get; set; }
         public string Name { get; set; }
+        public string EmailId { get; set; }
         public string Location { get; set; }
         public int Experience { get; set; } // Years of experience
         public string Bio { get; set; }
