@@ -3,7 +3,7 @@ using HackerBuddy.Sql.Interface;
 using HackerBuddy.Sql.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HackerBuddy.Controller
+namespace HackerBuddy.Web
 {
     [Route("api/[controller]")]
     [ApiController]

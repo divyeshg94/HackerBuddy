@@ -6,10 +6,10 @@ using HackerBuddy.Web.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HackerBuddy.Web.Controllers
+namespace HackerBuddy.Web
 {
     [Authorize]
-    public class HomeController : ControllerBase
+    public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IPersonService _personService;
@@ -38,15 +38,24 @@ namespace HackerBuddy.Web.Controllers
                         {
                             CreatedAt = DateTime.UtcNow,
                             EmailId = userEmail,
-                            Name = User.Identity?.Name
+                            Name = User.Identity?.Name,
+                            Bio = string.Empty,
+                            Experience = 0,
+                            Location = string.Empty,
+                            LookingForRole = string.Empty,
                         };
-                        var addedUser = await _personService.CreateAsync(user);
+
+                        var person = _personService.GetByEmailAsync(userEmail);
+
+                        if(person == null)
+                        {
+                            var addedUser = await _personService.CreateAsync(user);
+                        }
                     }
                 }
             }
 
-            return new JsonResult("");
-            //return View();
+            return View();
         }
 
         public IActionResult Privacy()

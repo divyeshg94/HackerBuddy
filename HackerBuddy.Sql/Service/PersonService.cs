@@ -23,6 +23,13 @@ namespace HackerBuddy.Sql.Service
             return await _context.Persons.Include(p => p.PersonSkills).ToListAsync();
         }
 
+        public async Task<Person> GetByEmailAsync(string email)
+        {
+            return await _context.Persons
+              .Include(p => p.PersonSkills)
+              .FirstOrDefaultAsync(p => p.EmailId == email);
+        }
+
         public async Task<Person> GetByIdAsync(int id)
         {
             return await _context.Persons

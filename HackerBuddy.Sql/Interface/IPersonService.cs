@@ -10,6 +10,7 @@ namespace HackerBuddy.Sql.Interface
     public interface IPersonService
     {
         Task<IEnumerable<Person>> GetAllAsync();
+        Task<Person> GetByEmailAsync(string email);
         Task<Person> GetByIdAsync(int id);
         Task<Person> CreateAsync(Person person);
         Task<Person> UpdateAsync(int id, Person person);
