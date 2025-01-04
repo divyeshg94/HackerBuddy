@@ -1,8 +1,6 @@
-using System.Diagnostics;
 using System.Security.Claims;
 using HackerBuddy.Sql.Interface;
 using HackerBuddy.Sql.Models;
-using HackerBuddy.Web.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -34,28 +32,63 @@ namespace HackerBuddy.Web
 
                     if (!string.IsNullOrEmpty(userEmail))
                     {
-                        var user = new Person()
+                        var person = await _personService.GetByEmailAsync(userEmail);
+                        if (person == null)
                         {
-                            CreatedAt = DateTime.UtcNow,
-                            EmailId = userEmail,
-                            Name = User.Identity?.Name,
-                            Bio = string.Empty,
-                            Experience = 0,
-                            Location = string.Empty,
-                            LookingForRole = string.Empty,
-                        };
+                            var user = new Person()
+                            {
+                                CreatedAt = DateTime.UtcNow,
+                                EmailId = userEmail,
+                                Name = User.Identity?.Name,
+                                Bio = string.Empty,
+                                Experience = 0,
+                                Location = string.Empty,
+                                LookingForRole = string.Empty,
+                            };
+                            person = await _personService.CreateAsync(user);
+                        }
 
-                        var person = _personService.GetByEmailAsync(userEmail);
-
-                        if(person == null)
+                        person = await _personService.GetByEmailAsync(userEmail);
+                        if (person != null &&
+                            (string.IsNullOrEmpty(person.Name) ||
+                             string.IsNullOrEmpty(person.Bio) ||
+                             person.PersonSkills == null ||
+                             person.PersonSkills.Count == 0))
                         {
-                            var addedUser = await _personService.CreateAsync(user);
+                            return RedirectToAction("Profile");
                         }
                     }
                 }
             }
 
-            return View();
+            return BadRequest();
+        }
+
+        public async Task<IActionResult> Profile()
+        {
+            if (User.Identity?.IsAuthenticated ?? false)
+            {
+                var userClaims = User.Claims;
+                var userClaimUserId = ((ClaimsIdentity)User.Identity).HasClaim(c => c.Type == "UserId");
+                if (!userClaimUserId) //TODO: This is not working, Adding claims for every call
+                {
+                    var userEmail = userClaims.FirstOrDefault(c => c.Type == "emails")?.Value;
+
+                    if (!string.IsNullOrEmpty(userEmail))
+                    {
+                        var person = await _personService.GetByEmailAsync(userEmail);
+                        if (person != null &&
+                            (string.IsNullOrEmpty(person.Name) ||
+                             string.IsNullOrEmpty(person.Bio) ||
+                             person.PersonSkills == null ||
+                             person.PersonSkills.Count == 0))
+                        {
+                            return View(person);
+                        }
+                    }
+                }
+            }
+            return BadRequest();
         }
 
         public IActionResult Privacy()
