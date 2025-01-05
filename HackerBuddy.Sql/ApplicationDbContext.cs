@@ -20,6 +20,7 @@ namespace HackerBuddy.Sql
         public DbSet<TeamMember> TeamMembers { get; set; }
         public DbSet<Conversation> Conversations { get; set; }
         public DbSet<Requirement> Requirements { get; set; }
+        public DbSet<TeamupRequest> TeamupRequests { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

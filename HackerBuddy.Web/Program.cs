@@ -27,6 +27,11 @@ builder.Services.AddRazorPages()
 
 builder.Services.AddScoped<IPersonService, PersonService>();
 builder.Services.AddScoped<ISkillService, SkillService>();
+builder.Services.AddScoped<IPersonMatchingService, PersonMatchingService>();
+builder.Services.AddScoped<IConversationService, ConversationService>();
+builder.Services.AddScoped<ITeamService, TeamService>();
+builder.Services.AddScoped<ITeamupRequestService, TeamupRequestService>();
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

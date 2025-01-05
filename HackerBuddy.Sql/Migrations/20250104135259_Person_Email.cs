@@ -16,6 +16,8 @@ namespace HackerBuddy.Sql.Migrations
                 type: "nvarchar(max)",
                 nullable: false,
                 defaultValue: "");
+
+            
         }
 
         /// <inheritdoc />
